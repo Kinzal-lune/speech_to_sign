@@ -1,0 +1,15 @@
+{
+  "hello": "SIGN_HELLO",
+  "hi": "SIGN_HELLO",
+  "thanks": "SIGN_THANK_YOU",
+  "thank": "SIGN_THANK_YOU",
+  "you": "SIGN_YOU",
+  "please": "SIGN_PLEASE",
+  "yes": "SIGN_YES",
+  "no": "SIGN_NO",
+  "help": "SIGN_HELP",
+  "how": "SIGN_HOW",
+  "are": "SIGN_ARE",
+  "i": "SIGN_I",
+  "need": "SIGN_NEED"
+}
